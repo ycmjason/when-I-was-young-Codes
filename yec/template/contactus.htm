@@ -1,0 +1,9 @@
+<div class="headline" id="contactus">Contact Us</div>
+<div id="form">
+	<form action="work.php?contactus=1" method="POST">
+		<input type="text" name="name" prevalue="Name" <?php echo (islogin())?"value=\"".$_['ye']->info['yname_en']."\" disabled=\"disabled\"":"";?> size="30" autocorrect="off" spellcheck="false" class="form_textfield"/><br />
+		<input type="text" name="email" prevalue="Contact email" <?php echo (islogin())?"value=\"".$_['ye']->info['yemail']."\" disabled=\"disabled\"":"";?> size="30" autocapitalize="off" autocorrect="off" spellcheck="false" class="form_textfield"/><br />
+		<textarea name="feedback" id="feedback" rows="10" cols="60" class="form_textarea" prevalue="Feedback">Feedback</textarea><br />
+		<input type="submit" value="submit"  class="form_button"/>
+	</form>
+</div>

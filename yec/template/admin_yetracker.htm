@@ -1,0 +1,21 @@
+<div class="headline">YE Tracker</div>
+<div id="sidemenu">
+<a href="./admin_yetracker.php" <?php if($_GET['viewmembers']!=1){?>class="os"<?php }?>>Stats</a>
+<a href="./admin_yetracker.php?viewmembers=1" <?php if($_GET['viewmembers']==1){?>class="os"<?php }?>>View members</a>
+</div>
+<div id="sidemenu_content">
+<?php
+if($_GET['viewmembers']==1){
+	if($_GET['edit']>0){
+		$this->require_subtemplate("admin_yeinformation",$_);
+	}else{
+		$this->require_subtemplate("admin_yetracker_viewmembers",$_);
+	}
+}else{
+	$this->require_subtemplate("admin_yetracker_stats",$_);
+}
+?>
+</div>
+<div class="clear"></div>
+<!--
+-->

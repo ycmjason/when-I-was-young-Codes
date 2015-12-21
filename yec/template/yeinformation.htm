@@ -1,0 +1,111 @@
+<form action="work.php?yeinfoupdate=1" method="POST">
+	<table id="yeinformation" border="0" cellspacing="0" cellpadding="0">
+		<tr style="height:40px;">
+			<td class="headline" id="yeinformation_left">Your Information</td>
+			<!--td id="yeinformation_right"><a href="yeinformation.php?viewpastevent=1">View your past event</a></td-->
+		</tr>
+		<tr>
+			<td>Year of YE</td>
+			<td>
+			<select name="year" class="form_select" disabled="disabled">
+				<option><?php echo $_['ye']->info['yyear'];?></option>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td>English Name*</td>
+			<td>
+			<input type="text" name="name_en" value="<?php echo $_['ye']->info['yname_en'];?>" size="20" class="form_textfield"/>
+			</td>
+		</tr>
+		<tr>
+			<td>Chinese Name*</td>
+			<td><input type="text" name="name_ch" value="<?php echo $_['ye']->info['yname_ch'];?>" size="10" class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Date of birth</td>
+			<td>
+			<select name="dob_y" class="form_select">
+				<option disabled="disabled" <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Year</option>
+				<?php
+				for($i=date("Y")-50;$i<date("Y")-10;$i++){
+				?>
+				<option value="<?php echo $i;?>" <?php if($i==date("Y",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo $i;?></option>
+				<?php }?>
+			</select>
+			<select name="dob_m" class="form_select">
+				<option disabled="disabled" <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Month</option>
+				<?php
+				for($i=1;$i<=12;$i++){
+				?>
+				<option value="<?php echo ($i<10)?"0".$i:$i;?>" <?php if($i==date("m",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo ($i<10)?"0".$i:$i;?></option>
+				<?php }?>
+			</select>
+			<select name="dob_d" class="form_select">
+				<option disabled="disabled" <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Day</option>
+				<?php
+				for($i=1;$i<=31;$i++){
+				?>
+				<option value="<?php echo ($i<10)?"0".$i:$i;?>" <?php if($i==date("d",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo ($i<10)?"0".$i:$i;?></option>
+				<?php }?>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td>Email*</td>
+			<td><input type="text" name="email" value="<?php echo $_['ye']->info['yemail'];?>" size="30" class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Address</td>
+			<td><textarea name="address" class="form_textarea" cols="35" rows="2"><?php echo $_['ye']->info['yaddress'];?></textarea></td>
+		</tr>
+		<tr>
+			<td>Home Phone*</td>
+			<td><input type="text" name="phone_h" value="<?php echo $_['ye']->info['yphone_h'];?>" size="20" class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Mobile Phone*</td>
+			<td><input type="text" name="phone_m" value="<?php echo $_['ye']->info['yphone_m'];?>" size="20" class="form_textfield"/></td>
+		</tr>
+		<tr style="height:60px;">
+			<td colspan="2"><div class="headline">Update password</div><?php echo ($_['ye']->info['ypassword']==NULL)?"<font color=\"red\">(You must update your password to activate your account)</font>":"(if applicable)"?></td>
+		</tr>
+		<tr>
+			<td>New Password</td>
+			<td><input type="password" name="newpw" size="20" class="form_textfield" /></td>
+		</tr>
+		<tr>
+			<td>Confirm Password</td>
+			<td><input type="password" name="newpwc" size="20" class="form_textfield" /></td>
+		</tr>
+		<tr style="height:50px;">
+			<td colspan="2" class="headline">Password confirmation</td>
+		</tr>
+		<tr>
+		<td>Password<?php echo ($_['ye']->info['ypassword']==NULL)?"(Your mobile/home number)":"(Your original one)"?>*</td>
+		<td><input type="password" name="pw" size="20" class="form_textfield" /></td>
+		</tr>
+	</table>
+    <table style="width:70%">
+        <tr>
+        <td colspan="2">
+        <div class="headline">Disclaimer</div>
+        </td>
+        </tr>
+        <tr>
+        <td style="width:80px;text-align:center;">
+        <input type="checkbox" id="disclaimer" name="disclaimer" value="1" <?php if($_['ye']->info['ydisclaimer']){?>checked="checked"<?php }?>>
+        </td>
+        <td>
+        <label for="disclaimer">
+        <?php echo $_['disclaimer'];?>
+        </label>
+        </td>
+        </tr>
+        <tr>
+		<td colspan="2">
+		<input type="submit" value="submit"  class="form_button"/>
+		</td>
+		</tr>
+    </table>
+</form>

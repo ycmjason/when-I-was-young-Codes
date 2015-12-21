@@ -1,0 +1,26 @@
+<?php
+for($i=0;$i<$_['posts']->pnum;$i++){
+?>
+<div class="post">
+	<div class="post_title"><a href="./index.php?filter=<?php if($_['posts']->pevent[$i]==1){?>events<?php }else{?>news<?php }?>" class="post_type"><?php if($_['posts']->pevent[$i]==1){?>EVENT<?php }else{?>NEWS<?php }?></a><a href="./post.php?pid=<?php echo $_['posts']->pid[$i]?>"><?php echo $_['posts']->ptitle[$i];?></a></div>
+	<div class="post_content"><?php echo $_['posts']->pcontent[$i];?></div>
+	<div class="post_attachment">
+	<?php 
+	/*
+	for($j=0;$j<count($_['posts']->pattm[$i]);$j++){
+		echo ($j+1).". <a href=\"downloadattm.php?apath=".encrypt($_['posts']->pattm[$i][$j])."\">".$_['posts']->pattmname[$i][$j]."</a><br />";
+	}*/
+	?>
+	</div>
+	<div class="post_option"><?php if($_['posts']->pevent[$i]==1&&islogin()){if(!$_['posts']->isjoint($_SESSION['yid'],$_['posts']->pid[$i])){?><a onclick="joinevent(<?php echo $_['posts']->pid[$i]?>);" class="post_join">Join this event</a><?php }else{?><a href="./joinevent.php?pid=<?php echo $_['posts']->pid[$i]?>&q=1" class="post_quit">Quit this event</a><?php }?> | <?php }?>Posted <?php echo timeAgo($_['posts']->ptimestamp[$i]);?></div>
+</div>
+<?php
+}
+?>
+<?php
+if(!isset($_GET['pid'])){
+?>
+<div class="post_page">Page: <?php echo $_['page'];?></div>
+<?php
+}
+?>

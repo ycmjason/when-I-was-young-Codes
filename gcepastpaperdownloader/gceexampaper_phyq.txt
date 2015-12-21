@@ -1,0 +1,283 @@
+<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="696a79e9-4a66-46cc-9d34-1cf119f8b025" haspers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody" allowdelete="false" style=""><div id="m_EnhancedSearchResults1">
+					<div class="MainContainer"><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">15</span> of <span class="DVLeftPaging-TotalElements">46</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(4);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,4);">1</a><a class="Page2 PaginationPage" title="Show results in page 2" onclick="DocumentViewerClientPagination(2,4);">2</a><a class="Page3 PaginationPage" title="Show results in page 3" onclick="DocumentViewerClientPagination(3,4);">3</a><a class="Page4 PaginationPage" title="Show results in page 4" onclick="DocumentViewerClientPagination(4,4);">4</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(4);" title="Show results in next page" class="DocumentViewerNextPage">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll">&lt;View all&gt;</a></span></div><div class="clear"></div></div><ul class="DocumentViewerResultList DVRS1"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2009 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2009 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(432.39 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2009/6PH01_01_que_20090113.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2009 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2009 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(491.96 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2009/6PH02_01_que_20090115.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - QP/6PH01_01_que_20100113.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(254.43 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - QP/6PH02_01_que_20100118.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - QP/6PH04_01_que_20100128.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 3 - Exploring Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(250.33 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - QP/6PH07_01_que_20100115.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH01_01_que_20110112.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(201.91 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH02_01_que_20110117.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(229.50 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH04_01_que_20110127.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(188.61 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH05_01_que_20110202.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH07_01_que_20110118.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(156.98 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - QP/6PH08_01_que_20110201.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(2 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH01_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 2 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(313.34 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH02_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH04_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><ul class="DocumentViewerResultList DVRS2" style="display:none;"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH04 - Question paper Erratum notice"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH04 - Question paper Erratum notice</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go: Erratum notice
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(70.20 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH04_01_ins_20120124.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH05_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics: International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(193.12 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH07_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics: International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(380.12 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - QP/6PH08_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH01_01_que_20130111.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 2 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH02_01_que_20130118.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 4 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH04_01_que_20130116.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 5 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH05_01_que_20130123.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 3 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(421.77 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH07_01_que_20130108.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 6 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(212.50 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - QP/6PH08_01_que_20130115.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2009 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2009 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2009/6PH01_01_que_20090521.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2009 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2009 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 2 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(423.39 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2009/6PH02_01_que_20090521.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2009 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2009 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 3 - International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(255.78 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2009/6PH07_01_que_20090521.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH01_01_que_20100527.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH02_01_que_20100609.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><ul class="DocumentViewerResultList DVRS3" style="display:none;"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(368.27 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH04_01_que_20100618.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH05_01_que_20100629.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(484.20 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH07_01_que_20100512.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(228.97 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-qp/6PH08_01_que_20100519.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(3 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH01_01_que_20110524.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(2 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH02_01_que_20110606.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH04_01_que_20110621.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(4 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH05_01_que_20110627.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH07_01_que_20110518.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(168.92 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - QP/6PH08_01_que_20110606.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH01 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH01 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH01_01_que_20120517.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH02 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH02 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH02_01_que_20120525.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH04 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH04 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(171.71 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH04_01_que_20120611.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH05 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH05 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(440.80 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH05_01_que_20120618.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH07 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH07 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(146.51 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH07_01_que_20120511.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><ul class="DocumentViewerResultList DVRS4" style="display:none;"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH08 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH08 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(324.68 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - QP/6PH08_01_que_20120521.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">15</span> of <span class="DVLeftPaging-TotalElements">46</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(4);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,4);">1</a><a class="Page2 PaginationPage" title="Show results in page 2" onclick="DocumentViewerClientPagination(2,4);">2</a><a class="Page3 PaginationPage" title="Show results in page 3" onclick="DocumentViewerClientPagination(3,4);">3</a><a class="Page4 PaginationPage" title="Show results in page 4" onclick="DocumentViewerClientPagination(4,4);">4</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(4);" title="Show results in next page" class="DocumentViewerNextPage">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll">&lt;View all&gt;</a></span></div><div class="clear"></div></div></div>
+				</td>
+			</tr>
+		</tbody></table>

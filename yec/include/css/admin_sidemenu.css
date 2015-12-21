@@ -1,0 +1,27 @@
+#sidemenu{
+	width:85px;
+	float:left;
+}
+#sidemenu a{
+	display:block;
+	width:80px;
+	text-align:center;
+	text-decoration:none;
+	padding-top:5px;
+	padding-bottom:5px;
+	background:#EEEEEE;
+	border:1px solid #AAAAAA;
+	color:black;
+	margin-top:5px;
+}
+#sidemenu a:hover{
+	background:#CCCCCC;
+}
+#sidemenu a.os{
+	background:#CCCCCC;
+}
+#sidemenu_content{
+	width:1200px;
+	padding-left:10px;
+	float:left;
+}

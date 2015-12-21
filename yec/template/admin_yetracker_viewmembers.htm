@@ -1,0 +1,54 @@
+<div id="viewmembers">
+	Filters:
+	<p>
+	<form method="GET" name="y" id="y">
+		<input type="hidden" name="viewmembers" value="1" />
+		<input type="hidden" name="filter" value="year" />
+		<select name="year" class="form_select" onchange="document.y.submit()">
+			<option disabled="disabled" selected>Year</option>
+			<?php
+			for($i=1996;$i<date("Y");$i++){
+			?>
+			<option value="<?php echo $i;?>"><?php echo $i;?></option>
+			<?php }?>
+		</select>
+	</form>
+	</p>
+	<p>
+	<a href="./admin_yetracker.php?viewmembers=1&filter=login" class="form_button">logged in users</a>
+	<a href="./admin_yetracker.php?viewmembers=1&filter=notlogin" class="form_button">hasn't logged in users</a>
+	</p>
+	<p>
+	<a href="./admin_yetracker.php?viewmembers=1&filter=updated" class="form_button">updated info users</a>
+	<a href="./admin_yetracker.php?viewmembers=1&filter=notupdated" class="form_button">hasn't updated info users</a>
+	</p><br />
+	<p>
+		<a href="<?php echo $_SERVER['REQUEST_URI'];?>&xls=1" class="form_button">Export excel file</a>
+	</p>
+	<table id="members" cellspacing="0" border="0" cellpadding="5">
+	<tr>
+	<?php
+	for($i=0;$i<count($_['field']);$i++){
+	?>
+	<td><?php echo $_['field'][$i]?></td>
+	<?php }?>
+	<td>edit?</td>
+	</tr>
+	<?php
+	
+	if(count($_['ye'])<=0){
+		echo  "<tr class=\"members_info\"><td colspan=\"".(count($_['field'])+1)."\"><strong><center>NO DATA IS FOUND</center></strong></td></tr>";
+	}
+	for($i=0;$i<count($_['ye']);$i++){
+	?>
+	<tr class="members_info">
+	<?php for($j=0;$j<count($_['field']);$j++){?>
+	<td><?php echo $_['ye'][$i][$j]?></td>
+	<?php }?>
+	<td><a href="admin_yetracker.php?viewmembers=1&edit=<?php echo $_['ye'][$i][0];?>" class="form_button" onClick="return confirm('Please make sure you have seeked the permission to edit the infomation of this YE.');">edit</a></td>
+	</tr>
+	<?php
+	}
+	?>
+	</table>
+</div>

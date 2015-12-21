@@ -1,0 +1,24 @@
+<div class="post">
+	<table cellspacing="0">
+	<tr class="post_attr">
+		<td colspan="2">Title</td>
+		<td>Post time/date</td>
+		<td>Options</td>
+	</tr>
+	<?php
+for($i=0;$i<$_['posts']->pnum;$i++){
+?>
+	<tr class="posth">
+	<td><a href="./admin_post.php?filter=<?php if($_['posts']->pevent[$i]==1){?>events<?php }else{?>news<?php }?>" class="post_type"><?php if($_['posts']->pevent[$i]==1){?>EVENT<?php }else{?>NEWS<?php }?></a></td>
+	<td class="post_title"><a href="./post.php?pid=<?php echo $_['posts']->pid[$i]?>" target="_blank"><?php echo $_['posts']->ptitle[$i];?></a></td>
+	<td class="post_date">Posted <?php echo timeAgo($_['posts']->ptimestamp[$i]);?></td>
+	<td class="post_option"><?php if($_['posts']->pevent[$i]==1){?>
+		<a href="./admin_post.php?p=<?php echo $_['posts']->pid[$i];?>&viewjoint=1">View Joint YEs</a> |
+	<?php }?>
+	<a href="./admin_post.php?p=<?php echo $_['posts']->pid[$i];?>">Edit</a> | <a href="./admin_post.php?delete=1&p=<?php echo $_['posts']->pid[$i];?>" onClick="return confirm('Are you sure you want to delete this post?\nThis action can not be undo.')">Delete</a></td>
+	</tr>
+<?php
+}
+?>
+	</table>
+</div>

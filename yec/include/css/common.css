@@ -1,0 +1,157 @@
+body,a
+{
+	font-family:arial;
+	font-size:14px;
+	margin:0px;
+	text-align:center;
+}
+body{
+	overflow-y:scroll;
+}
+.bold
+{
+	font-weight:bold;
+}
+.clear{
+	clear:both;
+}
+/*div{
+	border:red solid 1px;
+}*/
+#wrap{
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	margin-bottom:0px;
+	width:995px;
+	min-height:100%;
+}
+#header{
+	padding-top:5px;
+	height:85px;
+	background-color:#09F;
+	position:relative;
+}
+#header_logo{
+	height:85px;
+	float:left;
+	text-align:center;
+}
+#header_YE{
+	color:#FFFFFF;
+	width:700px;
+	text-align:right;
+	position:absolute;
+	right:10px;
+	bottom:5px;
+}
+#header_YE a{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#header_YE a:hover{
+	text-decoration:underline;
+}
+#header_nav{
+	margin-top:10px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	border-bottom:solid #0099FF 2px;
+	border-top:solid #FFFFFF 1px;
+}
+#header_nav ul{
+	float:left;
+	list-style-type:none;
+	margin:0px;
+	position:relative;
+	top:4px;
+	padding:0;
+}
+#header_nav li{
+	display:inline;
+}
+#header_nav a{
+	width:100px;
+	padding:6px;
+	text-decoration:none;
+	color:#FFFFFF;
+	font-weight:bold;
+	background-color:#0099FF;
+	position:relative;
+	border-left:#0099FF solid 2px;
+	border-right:#0099FF solid 2px;
+	border-top:#0099FF solid 2px;
+	border-bottom:#0099FF solid 2px;
+	margin-right:5px;
+	float:left;
+	top:-2px;
+}
+#header_nav a:hover{
+	background-color:#00BFFF;
+	border-left:#00BFFF solid 2px;
+	border-right:#00BFFF solid 2px;
+	border-top:#00BFFF solid 2px;
+}
+#header_nav a.header_currentpage{
+	background-color:#FFFFFF;
+	color:#0099FF;
+	border-bottom:0px;
+	padding-bottom:8px;
+}
+#header_nav a.header_currentpage:hover{
+	background-color:#FFFFFF;
+}
+#content{
+	border-left:#0099FF solid 2px;
+	border-right:#0099FF solid 2px;
+	border-bottom:#0099FF solid 2px;
+	margin:0px;
+	border-top:none;
+	padding:7px;
+}
+#footer{
+	padding:3px;
+}
+/**page**/
+.headline{
+	font-size:28px;
+}
+/**form**/
+form{
+	margin:0px;
+	border:0px;
+	padding:0px;
+	font-size:17px;
+}
+.form_textfield,.form_select{
+	font-size:17px;
+	padding:5px;
+	height:34px;
+	font-family:arial;
+	margin-bottom:6px;
+}
+.form_textarea{
+	font-size:17px;
+	padding:5px;
+	font-family:arial;
+	margin-bottom:6px;
+	resize:none;
+}
+.form_button{
+	background-color:#0099FF;
+	color:#FFFFFF;
+	border:solid 2px #0088FF;
+	font-size:15px;
+	padding-top:5px;
+	padding-bottom:3px;
+	padding-left:10px;
+	padding-right:10px;
+	outline:none;
+	cursor:pointer;
+	text-decoration:none;
+}
+.form_button:hover{
+	background-color:#00AAFF;
+}

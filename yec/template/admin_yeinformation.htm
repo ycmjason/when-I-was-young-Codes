@@ -1,0 +1,78 @@
+<p><a href="admin_yetracker.php?viewmembers=1" class="form_button">back</a></p>
+<form action="admin_work.php?yeinfoupdate=<?php echo intval($_GET['edit']);?>" method="POST">
+	<table id="yeinformation" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td id="yeinformation_left">Year of YE</td>
+			<td>
+			<select name="year" class="form_select">
+				<option disabled="disabled" <?php if(!isset($_['ye']->info['yyear'])){?>selected="selected"<?php }?>>Year</option>
+				<?php
+				for($i=1996;$i<date("Y");$i++){
+				?>
+			<option value="<?php echo $i;?>" <?php if($i==$_['ye']->info['yyear']){?>selected="selected"<?php }?>><?php echo $i;?></option>
+			<?php }?>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td>English name</td>
+			<td>
+			<input name="name_en" type="text" name="firstname" value="<?php echo $_['ye']->info['yname_en'];?>" size="20"  class="form_textfield"/>
+			</td>
+		</tr>
+		<tr>
+			<td>Chinese name</td>
+			<td><input name="name_ch" type="text" name="surname" value="<?php echo $_['ye']->info['yname_ch'];?>" size="6"  class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Date of birth</td>
+			<td>
+			<select name="dob_y" class="form_select">
+				<option  <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Year</option>
+				<?php
+				for($i=date("Y")-50;$i<date("Y")-10;$i++){
+				?>
+				<option value="<?php echo $i;?>" <?php if($i==date("Y",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo $i;?></option>
+				<?php }?>
+			</select>
+			<select name="dob_m" class="form_select">
+				<option  <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Month</option>
+				<?php
+				for($i=1;$i<=12;$i++){
+				?>
+				<option value="<?php echo ($i<10)?"0".$i:$i;?>" <?php if($i==date("m",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo ($i<10)?"0".$i:$i;?></option>
+				<?php }?>
+			</select>
+			<select name="dob_d" class="form_select">
+				<option  <?php if($_['ye']->info['ydob']==NULL){?>selected="selected"<?php }?>>Day</option>
+				<?php
+				for($i=1;$i<=31;$i++){
+				?>
+				<option value="<?php echo ($i<10)?"0".$i:$i;?>" <?php if($i==date("d",strtotime($_['ye']->info['ydob']))&&$_['ye']->info['ydob']!=NULL){?>selected="selected"<?php }?>><?php echo ($i<10)?"0".$i:$i;?></option>
+				<?php }?>
+			</select>
+			</td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="text" name="email" prevalue="Email" value="<?php echo $_['ye']->info['yemail'];?>" size="30" class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Address</td>
+			<td><textarea name="address" class="form_textarea" cols="35" rows="2"><?php echo $_['ye']->info['yaddress'];?></textarea></td>
+		</tr>
+		<tr>
+			<td>Phone (Home)</td>
+			<td><input type="text" name="phone_h" value="<?php echo $_['ye']->info['yphone_h'];?>" size="20" class="form_textfield"/></td>
+		</tr>
+		<tr>
+			<td>Phone (Mobile)</td>
+			<td><input type="text" name="phone_m" value="<?php echo $_['ye']->info['yphone_m'];?>" size="20" class="form_textfield"/></td>
+		</tr>
+		<tr>
+		<td colspan="2">
+		<input type="submit" value="submit"  class="form_button"/><a href="admin_work.php?yeinfoupdate=<?php echo intval($_GET['edit']);?>&resetpw=1" class="form_button">reset password</a>
+		</td>
+		</tr>
+	</table>
+</form>

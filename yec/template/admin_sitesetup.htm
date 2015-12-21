@@ -1,0 +1,45 @@
+<div class="headline">Site setup</div>
+
+<form action="admin_work.php?setup=1" method="post">
+	<table id="sitesetup" border="0" cellspacing="0" cellpadding="0">
+	<?php for($i=0;$i<count($_['sitesetup']);$i++){?>
+	<tr>
+		<td>
+			<?php echo $_['sitesetup'][$i]['sname'];?>
+		</td>
+		<td>
+			<input type="text" name="<?php echo $_['sitesetup'][$i]['sid']?>" class="form_textfield" size="40" value="<?php echo $_['sitesetup'][$i]['svalue'];?>" />
+		</td>
+	</tr>
+	<?php }?>
+	<tr>
+		<td>
+			New Password<br />(if applicable)
+		</td>
+		<td>
+			<input type="password" name="newpw" class="form_textfield" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Retype New Password<br />(also if applicable)
+		</td>
+		<td>
+			<input type="password" name="newpwc" class="form_textfield" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Admin Password
+		</td>
+		<td>
+			<input type="password" name="password" class="form_textfield" />
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<input type="submit" class="form_button" value="Submit" />
+		</td>
+	</tr>
+	</table>
+</form>

@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title><?php echo $_['site']['title'];?></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+		<link rel="stylesheet" href="./include/css/common.css" type="text/css" />
+		<?php echo $_['css'];?>
+		<script type="text/javascript" src="./ckeditor/ckeditor.js"></script>
+		<script type="text/javascript" src="./include/js/var.js"></script>
+		<script type="text/javascript" src="./include/js/common.js"></script>
+		<script type="text/javascript" src="./include/js/jquery.js"></script>
+		<script type="text/javascript" src="./include/js/tab.js"></script>
+		<?php echo $_['js_head'];?>
+	</head>
+	<body>
+	<div id="wrap">
+	<div id="header">
+		<div>
+			<a href="index.php"><img id="header_logo" src="./images/logo.png" border="0"/></a>
+		</div>
+		<div id="header_YE">
+			<?php if(islogin()){?>
+			Hi <a href="./yeinformation.php"><?php echo $_['ye']->info['yname_en'];?></a>, <a href="./logout.php">Logout</a>
+			<?php }else{?>
+			<a href="login.php">Login</a>
+			<?php }?>
+		</div>
+		<div class="clear"></div>
+	</div>
+		<div id="header_nav">
+			<ul>
+			<li><a href="./index.php" <?php echo(($_['nav']==1)?"class=\"header_currentpage\"":"");?>>Home</a></li>
+			<li><a href="./index.php?filter=news" <?php echo(($_['nav']==2)?"class=\"header_currentpage\"":"");?>>News</a></li>
+			<li><a href="./index.php?filter=events" <?php echo(($_['nav']==3)?"class=\"header_currentpage\"":"");?>>Events</a></li>
+			<li><a href="./contactus.php" <?php echo(($_['nav']==4)?"class=\"header_currentpage\"":"");?>>Contact Us</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+	<div class="clear"></div>
+	<div id="content">

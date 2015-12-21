@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title><?php echo $_['site']['title'];?></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+		<link rel="stylesheet" href="./include/css/admin_common.css" type="text/css" />
+		<?php echo $_['css'];?>
+		<script type="text/javascript" src="./ckeditor/ckeditor.js"></script>
+		<script type="text/javascript" src="./include/js/common.js"></script>
+		<script type="text/javascript" src="./include/js/jquery.js"></script>
+		<?php echo $_['js_head'];?>
+	</head>
+	<body>
+	<div id="wrap">
+	<div id="header">
+		<center>
+		<div id="header_logo">
+			<a href="index.php"><img src="./images/logo_pink.jpg" border="0"/></a>
+		</div>
+		ADMIN PANEL
+		</center>
+	</div>
+	<div class="clear"></div>
+	<div id="content">
+	<?php if(isadminlogin()){?><div id="action"><p>Please select action: </p><a href="admin_panel.php?setup=1" class="form_button">Site setup</a> <a href="admin_post.php" class="form_button">Posts (News/Events) management</a> <a href="admin_yetracker.php" class="form_button">YE tracker</a> <a href="admin_logout.php" class="form_button">Logout</a></div><?php }?>

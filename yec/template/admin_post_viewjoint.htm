@@ -1,0 +1,41 @@
+<p><a href="admin_post.php" class="form_button">back</a></p>
+	<p>
+		<a href="<?php echo $_SERVER['REQUEST_URI'];?>&xls=1" class="form_button">Export excel file</a>
+	</p>
+<div class="headline"><?php echo $_['post']->ptitle[0];?></div>
+<form action="./admin_work.php?event_attended=<?php echo $_GET['p'];?>" method="POST">
+		<div id="viewmembers">
+			<table id="members" cellspacing="0" border="0" cellpadding="5">
+			<tr>
+			<?php
+			for($i=0;$i<count($_['field']);$i++){
+			?>
+			<td><?php echo $_['field'][$i]?></td>
+			<?php }?>
+			<td>Attended?</td>
+			</tr>
+			<?php
+			if(count($_['ye'])<=0){
+				echo  "<tr class=\"members_info\"><td colspan=\"".(count($_['field'])+1)."\"><strong><center>NO DATA IS FOUND</center></strong></td></tr>";
+			}
+			for($i=0;$i<count($_['ye']);$i++){
+			?>
+			<tr class="members_info">
+			<?php for($j=0;$j<count($_['field']);$j++){?>
+			<td><label style="height:100%;width:100%;display:block;" for="attended[<?php echo $_['ye'][$i][0]?>]"><?php echo $_['ye'][$i][$j]?></label></td>
+			<?php }?>
+			<td><label style="height:100%;width:100%;display:block;" for="attended[<?php echo $_['ye'][$i][0]?>]"><input type="checkbox" id="attended[<?php echo $_['ye'][$i][0]?>]" name="attended[<?php echo $_['ye'][$i][0]?>]" value="1"<?php if($_['ye'][$i][$j-1]=="Yes"){?>checked="checked"<?php }?>></label></td>
+			</tr>
+			<?php
+			}
+			?>
+			<tr>
+				<td colspan="<?php echo count($_['field'])+1;?>" style="text-align:right">
+					<input type="submit" value="update" />
+				</td>
+			</tr>
+			</table>
+		</div>
+</form>
+<!--
+-->

@@ -1,0 +1,28 @@
+<div class="headline">Posts management</div>
+<div id="sidemenu">
+<a href="./admin_post.php" <?php if(!isset($_GET['newpost'])){?>class="os"<?php }?>>Edit</a>
+<a href="./admin_post.php?newpost=1" <?php if($_GET['newpost']==1){?>class="os"<?php }?>>New</a>
+</div>
+<div id="sidemenu_content">
+<?php
+if($_GET['newpost']==1){
+	$this->require_subtemplate("admin_post_newpost",$_);
+}else{
+	if($_GET['p']>0){
+		//view event ye
+		if($_GET['viewjoint']==1){
+			$this->require_subtemplate("admin_post_viewjoint",$_);
+		}else{
+			//editor
+			$this->require_subtemplate("admin_post_editor",$_);
+		}
+	}else{
+		$this->require_subtemplate("admin_post_editpost",$_);
+	}
+
+}
+?>
+</div>
+<div class="clear"></div>
+<!--
+-->

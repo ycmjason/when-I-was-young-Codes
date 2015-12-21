@@ -1,0 +1,18 @@
+#yeinformation{
+	margin-top:4px;
+	width:550px;
+}
+#yeinformation_left{
+	width:150px;
+	padding-right:10px;
+}
+#yeinformation_right{
+	text-align:right;
+}
+#yeinformation_right a{
+	color:#000000;
+	text-decoration:none;
+}
+#yeinformation_right a:hover{
+	text-decoration:underline;
+}

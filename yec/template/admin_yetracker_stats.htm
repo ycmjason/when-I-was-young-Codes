@@ -1,0 +1,6 @@
+<div id="stats">
+	<p>Number of YE in the database:<br /> <strong><?php echo $_['yenum'];?></strong></p>
+	<p>YEs that have updated their info:(password changed):<br /> <strong><?php echo intval(($_['yeinfo']/$_['yenum'])*100)."% (".$_['yeinfo']."/".$_['yenum'].")";?></strong></p>
+	<p>YEs that have logged in:<br /> <strong><?php echo intval(($_['yelogin']/$_['yenum'])*100)."% (".$_['yelogin']."/".$_['yenum'].")";?></strong></p>
+	<p>YEs that have updated their info/YEs that have logged in:<br /> <strong><?php echo intval(($_['yeinfo']/$_['yelogin'])*100)."% (".$_['yeinfo']."/".$_['yelogin'].")";?></strong></p>
+</div>

@@ -1,0 +1,23 @@
+<div class="headline" id="contactus">Login</div>
+<div id="login">
+	<form action="work.php?login=1&return=<?php echo $_['return'];?>" method="POST">
+		<select name="year" class="form_select">
+			<option disabled="disabled" selected>Year</option>
+			<?php
+			for($i=1996;$i<=date("Y");$i++){
+			?>
+			<option value="<?php echo $i;?>"><?php echo $i;?></option>
+			<?php }?>
+		</select><br />
+		<input type="text" id="name" name="name" prevalue="Chinese Name" size="10" autocorrect="off" spellcheck="false" class="form_textfield"/><br />
+		<input type="password" id="password" name="password" prevalue="Password" size="30" autocapitalize="off" autocorrect="off" spellcheck="false" class="form_textfield"/><br />
+		<input type="submit" value="submit"  class="form_button"/>
+	</form>
+</div>
+<div id="guide_n">
+If you do not possess a Chinese name, please <a href="./contactus.php">contact us</a> for changing your login info.<br />
+</div>
+<div id="guide_p">
+	Tips: If it's the first time you login, your password would be your home or mobile number.
+</div>
+<div class="clear"></div>

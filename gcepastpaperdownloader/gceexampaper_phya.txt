@@ -1,0 +1,271 @@
+<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="696a79e9-4a66-46cc-9d34-1cf119f8b025" haspers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody" allowdelete="false" style=""><div id="m_EnhancedSearchResults1">
+					<div class="MainContainer"><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">15</span> of <span class="DVLeftPaging-TotalElements">44</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(3);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,3);">1</a><a class="Page2 PaginationPage" title="Show results in page 2" onclick="DocumentViewerClientPagination(2,3);">2</a><a class="Page3 PaginationPage" title="Show results in page 3" onclick="DocumentViewerClientPagination(3,3);">3</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(3);" title="Show results in next page" class="DocumentViewerNextPage">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll">&lt;View all&gt;</a></span></div><div class="clear"></div></div><ul class="DocumentViewerResultList DVRS1"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2009 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2009 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(192.01 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2009/6PH01_01_rms_20090312.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2009 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2009 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(181.24 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2009/6PH02_01_rms_20090312.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(416.76 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - MS/6PH01_01_msc_20100219.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(200.55 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - MS/6PH02-01-MS-1001.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(113.03 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - MS/6PH04_01_MS_1001_Stand.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2010 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2010 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 3 - Exploring Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(250.49 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/GCE January 2010 - MS/6PH07_01_msc_20100219.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(172.73 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH01_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(227.30 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH02_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(290.71 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH04_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(279.63 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH05_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(127.32 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH07_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2011 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2011 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(223.89 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2011 - MS/6PH08_01_rms_20110309.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(309.07 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH01_01_msc_20120208.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 2 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(265.71 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH02_01_msc_20120209.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(250.74 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH04_01_msc_20120208.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><ul class="DocumentViewerResultList DVRS2" style="display:none;"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(307.78 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH05_01_msc_20120208.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics: International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(187.66 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH07_01_msc_20120209.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2012 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics: International Alternative to Internal Assessment
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(421.99 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/January 2012 - MS/6PH08_01_msc_20120209.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(278.35 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH01_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 2 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(259.31 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH02_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 4 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(410.88 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH04_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 5 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(260.11 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH05_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 3 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(210.76 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH07_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">January 2013 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 6 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(295.55 KB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCE January 2013 - MS/6PH08_01_rms_20130307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2009 - International Supplement - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2009 - International Supplement - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+International Supplement
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(198.80 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June09-ms/8PH07_GCE Physics_msc_20090717.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2009 - Unit 1 &amp; 2 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2009 - Unit 1 &amp; 2 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Unit 1 &amp; 2
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June09-ms/8PH01_GCE Physics_msc_20090717_US021598.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(184.26 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH01_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(222.29 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH02_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(129.83 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH04_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(263.19 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH05_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><ul class="DocumentViewerResultList DVRS3" style="display:none;"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(158.62 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH07_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2010 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2010 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(166.83 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/june2010-ms/6PH08_01_msc_20100716.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(229.06 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH01_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(278.39 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH02_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(305.74 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH04_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH05_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(214.54 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH07_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2011 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(309.65 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2011 - MS/6PH08_01_rms_20110817.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH01 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH01 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Go
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(286.00 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH01_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH02 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH02 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics at Work
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(234.65 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH02_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH04 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH04 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics on the Move
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(252.18 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH04_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH05 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH05 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Physics from Creation to Collapse
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(464.03 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH05_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH07 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH07 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Exploring Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(167.35 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH07_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - 6PH08 - Mark scheme"></div><div class="resultContainer"><div class="FirstLine">June 2012 - 6PH08 - Mark scheme</div><div class="SecondLine"><div class="summary">
+
+Paper 1 - Experimental Physics International Only
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(222.06 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP GCE Curriculum 2000/June 2012 - MS/6PH08_01_rms_20120816.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">15</span> of <span class="DVLeftPaging-TotalElements">44</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(3);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,3);">1</a><a class="Page2 PaginationPage" title="Show results in page 2" onclick="DocumentViewerClientPagination(2,3);">2</a><a class="Page3 PaginationPage" title="Show results in page 3" onclick="DocumentViewerClientPagination(3,3);">3</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(3);" title="Show results in next page" class="DocumentViewerNextPage">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll">&lt;View all&gt;</a></span></div><div class="clear"></div></div></div>
+				</td>
+			</tr>
+		</tbody></table>

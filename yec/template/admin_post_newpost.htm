@@ -1,0 +1,18 @@
+<form action="admin_work.php?newpost=1" method="post" enctype="multipart/form-data">
+	<div>
+	<input type="text" name="title" class="form_textfield" size="50" />
+	<p>
+	For images, please upload them on <a href="http://imgur.com/">http://imgur.com/</a>.<br />
+	For any other types of attachments, please upload them on <a href="http://www.sendspace.com/">http://www.sendspace.com/</a> or other cloud storage services (e.g. Google Drive etc.).
+	</p>
+	<textarea class="ckeditor" name="content"></textarea>
+	<p><label style="cursor:pointer;">Is this an event? <input style="cursor:pointer;" value="1" type="checkbox" name="event"  /></label></p>
+	<p><label style="cursor:pointer;">Send this to all YE as email? <input style="cursor:pointer;" value="1" type="checkbox" name="email" /></label></p>
+	<?php /*<p>
+	Attachment(s):<br />
+	<input type="file" name="file[]" /><br />
+	<button value="more" id="more" />
+	</p>*/?>
+	</div>
+	<input type="submit" value="submit" class="form_button" />
+</form>

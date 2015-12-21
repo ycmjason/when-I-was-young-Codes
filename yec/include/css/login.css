@@ -1,0 +1,19 @@
+#login{
+	margin-top:4px;
+	float:left;
+	width:330px;
+}
+#guide_n{
+	width:400px;
+	position:relative;
+	top:44px;
+	float:left;
+	opacity: 0.5;
+}
+#guide_p{
+	width:400px;
+	position:relative;
+	top:51px;
+	float:left;
+	opacity: 0.5;
+}

@@ -1,0 +1,39 @@
+<table toplevel="" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="696a79e9-4a66-46cc-9d34-1cf119f8b025" haspers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody" allowdelete="false" style=""><div id="m_EnhancedSearchResults1">
+					<div class="MainContainer"><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">4</span> of <span class="DVLeftPaging-TotalElements">4</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(1);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,1);">1</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(1);" title="Show results in next page" class="DocumentViewerNextPage" style="display:none;">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll" style="display:none;">&lt;View all&gt;</a></span></div><div class="clear"></div></div><ul class="DocumentViewerResultList DVRS1"><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2012 - Unit 1 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2012 - Unit 1 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Living in a Digital World - 
+
+
+
+Approved for GCSE 2010 modular and GCSE 2012 linear
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(2 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP Current GCSE/January 2012 - QP/5IT01_01_que_20120307.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="January 2013 - Unit 1 - Question paper"></div><div class="resultContainer"><div class="FirstLine">January 2013 - Unit 1 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Living in a Digital World - Approved for GCSE 2010 modular and GCSE 2012 linear
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClassShow"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/secure_past_papers_gcse/GCSE January 2013 - QP/5IT01_01_que_20130115.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2011 - Unit 1 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2011 - Unit 1 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Living in a Digital World - Approved for GCSE 2010 modular and GCSE 2012 linear
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(328.26 KB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP Current GCSE/June 2011 - QP/5IT01_01_que_20110613.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li><li class="dvresult"><div class="dvsrch-Icon"><img src="/_layouts/images/pdficon.gif" alt="June 2012 - Unit 1 - Question paper"></div><div class="resultContainer"><div class="FirstLine">June 2012 - Unit 1 - Question paper</div><div class="SecondLine"><div class="summary">
+
+Unit 1 - Living in a Digital World - Approved for GCSE 2010 modular and GCSE 2012 linear
+
+
+
+    
+
+
+
+</div></div><div class="ThirdLine"><div class="group">PDF</div><div class="size">(1 MB)</div><div class="secureContentClass"><img src="/Style Library/Edexcel/Images/DocViewer-SecureContent.gif" title="To access this document you will require an Edexcel Username and Password"></div><div class="downloadLink"><a href="http://www.edexcel.com/migrationdocuments/QP Current GCSE/June 2012 - QP/5IT01_01_que_20120601.pdf" target="_blank"><img src="/Style Library/Edexcel/Images/DVdownload.gif">Download</a></div></div></div><div class="clear"></div></li></ul><div class="DocumentViewerPaging"><span class="DVLeftPaging">Showing <span class="DVLeftPaging-InitialElement">1</span> - <span class="DVLeftPaging-LastElement">4</span> of <span class="DVLeftPaging-TotalElements">4</span> results</span><span class="DVRightPaging"><a onclick="DocumentViewerPrevPage(1);" title="Show results in previous page" class="DocumentViewerPrevPage" style="display:none;">&lt;Prev&gt;</a><span class="DocumentViewerPrevPageDots" style="display:none;">...</span><a class="SelectedPage Page1 PaginationPage" title="Show results in page 1" onclick="DocumentViewerClientPagination(1,1);">1</a><span class="DocumentViewerNextPageDots" style="display:none;">...</span><a onclick="DocumentViewerNextPage(1);" title="Show results in next page" class="DocumentViewerNextPage" style="display:none;">&lt;Next&gt;</a><a onclick="DocumentViewerViewAll();" title="Show all the results" class="DocumentViewerViewAll" style="display:none;">&lt;View all&gt;</a></span></div><div class="clear"></div></div></div>
+				</td>
+			</tr>
+		</tbody></table>

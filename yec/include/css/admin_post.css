@@ -1,0 +1,52 @@
+.posth:hover{
+	background:#EECCEE;
+}
+.post_title{
+	font-weight:bold;
+	padding:5px 0px;
+	width:340px;
+}
+.post_title a{
+	font-size:17px;
+	color:#000000;
+	text-decoration:none;
+}
+.post_title a:hover{
+	text-decoration:underline;
+}
+a.post_type{
+	font-weight:bold;
+	text-decoration:none;
+	display:block;
+	padding:5px 0px;
+	background:#888888;
+	color:#FFFFFF;
+	position:relative;
+	right:3px;
+	font-size:14px;
+	width:60px;
+}
+a.post_type:hover{
+	text-decoration:underline;
+}
+.post_date{
+	width:210px;
+}
+.post_option{
+	text-align:right;
+	padding:5px 0px;
+}
+.post_option a{
+	color:black;
+	text-decoration:none;
+}
+.post_option a:hover{
+	color:black;
+	text-decoration:underline;
+}
+.post_attr{
+	text-align:center;
+	padding:4px;
+	color:#FFFFFF;
+	background:#AAAAAA;
+}

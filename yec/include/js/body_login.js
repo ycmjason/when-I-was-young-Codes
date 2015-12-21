@@ -1,0 +1,33 @@
+var f=[0,0];
+$("#name").focus(function(){
+	$("#guide_n").fadeTo(200,1);
+	f[0]=1;
+});
+$("#name").blur(function(){
+	$("#guide_n").fadeTo(100,0.5);
+	f[0]=0;
+});
+$("#guide_n").mouseenter(function(){
+	$("#guide_n").fadeTo(200,1);
+});
+$("#guide_n").mouseleave(function(){
+	if(f[0]==0){
+		$("#guide_n").fadeTo(200,0.5);
+	}
+});
+$("#password").focus(function(){
+	$("#guide_p").fadeTo(200,1);
+	f[1]=1;
+});
+$("#password").blur(function(){
+	$("#guide_p").fadeTo(100,0.5);
+	f[1]=0;
+});
+$("#guide_p").mouseenter(function(){
+	$("#guide_p").fadeTo(200,1);
+});
+$("#guide_p").mouseleave(function(){
+	if(f[1]==0){
+		$("#guide_p").fadeTo(200,0.5);
+	}
+});
